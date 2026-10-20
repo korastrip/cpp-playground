@@ -6,3 +6,4 @@
 <p align="center">A C++ playground to create, test, some method, and some features</p>
 
 1. 🌲[Fir](fir.cpp)
+2. 🔢 [Guess the number](guess-number.cpp)
